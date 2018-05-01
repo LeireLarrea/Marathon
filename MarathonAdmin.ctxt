@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MarathonAdmin()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MarathonAdmin\r\n
+comment1.params=
+comment1.target=void\ readInRunners()
+comment1.text=\r\n\ Prompts\ the\ user\ for\ a\ pathname\ and\ then\ attemps\ to\ open\ a\ stream\r\n\ on\ the\ specified\ file.\ The\ method\ expects\ a\ file\ containing\ the\ details\r\n\ of\ Runner\ objects\ (name\ and\ age)\ in\ CSV\ format.\r\n\ An\ arrayList\ must\ be\ created\ (using\ MaratonAdmin\ constructor)\r\n\ prior\ to\ running\ this\ method\r\n\ so\ as\ the\ Runner\ objects\ created\ can\ be\ stored\ in\ it.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ runMarathon()
+comment2.text=\r\n\ Iterates\ over\ runners\ and\ for\ each\ runner\ generates\ \r\n\ a\ random\ number\ between\ 90\ and\ 180\ (inclusive)\r\n\ which\ is\ used\ to\ set\ the\ time\ (in\ minutes)\ for\ that\ runner.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ sortRunnerList()
+comment3.text=\r\n\ Sorts\ the\ runners\ List\ by\ the\ instance\ variable\ time\ of\ each\ Runner\ object\r\n\ \r\n
+comment4.params=
+comment4.target=void\ categorise()
+comment4.text=\r\n\ Categorises\ runners\ into\ juniorResults,\ standardResults\ and\ seniorResults\ Maps\ \r\n\ \r\n
+numComments=5

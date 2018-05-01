@@ -1,0 +1,4 @@
+MarathonAdmin ma = new MarathonAdmin();
+ma.readInRunners();
+ma.runMarathon();
+ma.categorise();
